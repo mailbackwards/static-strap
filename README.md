@@ -10,7 +10,7 @@ This app can be thought of as divided into two parts:
 - A static website generator inspired by [this post](https://nicolas.perriault.net/code/2012/dead-easy-yet-powerful-static-website-generator-with-flask/) and the magic of [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask)/[Flask-FlatPages](https://github.com/SimonSapin/Flask-FlatPages)
 - An optional hook into an Amazon S3 account for easy command-line "deployment" of a static website (built on [boto](https://github.com/boto/boto)).
 
-This allows for all the perks of a modern development framework (routes, templates, [bootstrap](https://github.com/twbs/bootstrap)), and even a [pseudo-database](http://pythonhosted.org/Flask-FlatPages/). Good for personal webpages, hackathons, frontend playgrounds, etc.
+This allows for all the perks of a modern development framework (routes, templates, [bootstrap](https://github.com/twbs/bootstrap), currently v.3.0.2), and even a [pseudo-database](http://pythonhosted.org/Flask-FlatPages/). Good for personal webpages, hackathons, frontend playgrounds, etc.
 
 ### Starting up
 
